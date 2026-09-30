@@ -1,0 +1,7 @@
+[project]
+name = "recipe-serving-scaler"
+version = "1.0.0"
+description = "Scale line-oriented recipes across servings and culinary units"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
